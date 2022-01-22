@@ -1,16 +1,11 @@
 
  ## Pre-Requisites
- - Java JDK 1.8
+ - Java JDK 1.8+
  - IDE - Visual Code
+ - Maven
+ - TestNG
  - Selenium Lib (Selenium-java, WebDriverManager, testNG)
  - Browser (Chrome)
-
-
- ## Reference Links
-  [Google](https://www.google.com)
-
-  <https://www.google.com>
-
 
 
 ## Test Scenarios Covered
@@ -24,3 +19,25 @@
 - |TC_03           | AddProduct    | Pass      |
 
 - |TC_04           | AddManufacturingOrder    | Pass      |
+
+
+ ## Reference Links
+- [Selenium Dev](https://www.selenium.dev/)
+
+- [TestNG](https://testng.org/doc)
+
+- [Maven Repository](https://mvnrepository.com/)
+
+
+## Improvements
+1. Test data can be store and retrive json/xml file
+1. Extent Report implementation 
+1. Improve exception handling
+1. Improve Explict waits
+
+
+  
+
+
+
+
