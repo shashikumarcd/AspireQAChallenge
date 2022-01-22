@@ -1,0 +1,11 @@
+com\aspire\pages\LoginPage.class
+com\aspire\pages\ProductsPage.class
+com\aspire\helper\Helper.class
+com\aspire\pages\InventoryPage.class
+com\aspire\tests\LoginTest.class
+com\aspire\tests\ManufacturingOrderTest.class
+com\aspire\pages\ManufacturingOrderPage.class
+com\aspire\components\TestBase.class
+com\aspire\pages\BasePage.class
+com\aspire\tests\AddProductTest.class
+com\aspire\pages\HomePage.class
